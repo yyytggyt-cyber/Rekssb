@@ -1,0 +1,23 @@
+credentials.json
+token.json
+.env
+.env.*
+*.pem
+__pycache__/
+*.pyc
+node_modules/
+
+# Google credentials
+credentials.json
+token.json
+client_secret*.json
+
+# Backups and archives
+*.backup.*
+*.before_*
+backup_before_*/
+*.tar.gz
+
+# Private configuration
+.env
+.env.*

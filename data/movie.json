@@ -1,0 +1,363 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+  "belongs_to_collection": null,
+  "budget": 200000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "خيال علمي"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
+    }
+  ],
+  "homepage": "",
+  "id": 687163,
+  "imdb_id": "tt12042730",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Project Hail Mary",
+  "overview": "يستيقظ \"رايلاند غريس\"، مدرس العلوم، على متن مركبة فضائية تبعد سنوات ضوئية عن موطنه، فاقدًا للذاكرة تمامًا، لا يتذكر من هو ولا كيف وصل إلى هناك. ومع عودة ذاكرته تدريجيًا، يبدأ في اكتشاف مهمته: حل لغز المادة الغامضة التي تتسبب في انطفاء الشمس. عليه أن يستعين بمعرفته العلمية وأفكاره غير التقليدية لإنقاذ كل شيء على الأرض من الفناء... لكن صداقة غير متوقعة تعني أنه قد لا يضطر إلى القيام بذلك بمفرده.",
+  "popularity": 1309.5608,
+  "poster_path": "/7KAoYK7La4OLXgDspPaS7GBVv8U.jpg",
+  "production_companies": [
+    {
+      "id": 77973,
+      "logo_path": "/fAajboa3w8LNvweN0hNZ4K0z03L.png",
+      "name": "Lord Miller",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 232193,
+      "logo_path": "/87yLRX32cLqxEhNy1fWkDrPL72v.png",
+      "name": "Open Invite Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 22842,
+      "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+      "name": "Waypoint Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-15",
+  "revenue": 684639091,
+  "runtime": 156,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "رجل واحد. مهمة واحدة. فرصة أخيرة.",
+  "title": "مشروع هيل ماري",
+  "video": false,
+  "vote_average": 8.627,
+  "vote_count": 8800,
+  "translations": [
+    {
+      "language": "de",
+      "country": "DE",
+      "title": "Der Astronaut – Project Hail Mary",
+      "overview": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt."
+    },
+    {
+      "language": "zh",
+      "country": "CN",
+      "title": "挽救计划",
+      "overview": "改编自安迪·威尔的同名畅销科幻小说。太阳正在被“吃”掉，绝望吞噬地球。一名“平凡”的中学教师格雷斯背负全人类的希望，踏上“太空不归路”。末路孤旅中，他意外遇到一位外星萌友，一个同样身陷绝境的外星工程师，这对“宇宙搭子”成了两个文明最后的救命稻草。他们能否在资源紧缺的情况下攻克重重科学谜题，寻回唯一的希望火种？"
+    },
+    {
+      "language": "ko",
+      "country": "KR",
+      "title": "프로젝트 헤일메리",
+      "overview": "눈을 떠보니 아득한 우주의 한가운데에서 깨어난 중학교 과학교사 그레이스는 희미한 기억 속에서 자신이 죽어가는 태양으로부터 지구와 인류를 살릴 마지막 희망으로 이곳에 왔다는 사실을 알게 된다. 잃어버린 기억으로 인해 모든 것이 혼란스러운 상황에서 그레이스는 우연히 우주 한복판에서 같은 목적으로 온 뜻밖의 존재 로키를 만나게 되고 그레이스와 로키는 각 두 행성의 운명을 건 마지막 미션을 수행하러 떠나게 되는데…"
+    },
+    {
+      "language": "vi",
+      "country": "VN",
+      "title": "Thoát Khỏi Tận Thế",
+      "overview": "Mất trí nhớ và lạc lõng trên một con tàu vũ trụ, một phi hành gia khám phá ra rằng anh là hy vọng duy nhất của nhân loại trước bờ vực tuyệt chủng. Một liên minh bất ngờ được hình thành, nắm giữ vận mệnh của tất cả."
+    },
+    {
+      "language": "fr",
+      "country": "FR",
+      "title": "Projet Dernière Chance",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul."
+    },
+    {
+      "language": "pt",
+      "country": "BR",
+      "title": "Devoradores de Estrelas",
+      "overview": "O professor de ciências Ryland Grace acorda em uma espaçonave a anos-luz de casa, sem nenhuma lembrança de quem é ou como chegou ali. À medida que sua memória retorna, ele começa a descobrir sua missão: resolver o enigma de uma substância misteriosa que está fazendo o Sol morrer. Ele precisará recorrer ao seu conhecimento científico e a ideias nada convencionais para salvar tudo na Terra da extinção… mas uma amizade inesperada pode significar que ele não terá que fazer isso sozinho."
+    },
+    {
+      "language": "uk",
+      "country": "UA",
+      "title": "Проєкт «Аве Марія»",
+      "overview": "Шкільний учитель Райланд Грейс прокидається на космічному кораблі за світлові роки від Землі без жодної згадки про себе чи свою місію. Пам’ять повертається — і з нею усвідомлення: він останній шанс людства зупинити згасання Сонця. Його зброя — наука, кмітливість і… несподіваний союзник, який змінить усе."
+    },
+    {
+      "language": "es",
+      "country": "ES",
+      "title": "Proyecto Salvación",
+      "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo."
+    },
+    {
+      "language": "fi",
+      "country": "FI",
+      "title": "Operaatio Ave Maria",
+      "overview": "Tiedeopettaja Ryland Grace herää avaruusalukselta valovuosien päässä Maasta muistamatta, kuka hän on tai miten hän päätyi sinne. Kun hänen muistinsa palautuu vähän kerrallaan, hän alkaa ymmärtää tehtävänsä: ratkaista arvoitus salaperäisestä aineesta, joka aiheuttaa auringon kuihtumista. Hän joutuu turvautumaan tieteelliseen tietämykseensä ja epätavanomaisiin ideoihinsa pelastaakseen koko Maan sukupuutolta… mutta yllättävä ystävyys voi tarkoittaa, ettei hänen tarvitse tehdä sitä yksin."
+    },
+    {
+      "language": "es",
+      "country": "MX",
+      "title": "Proyecto Fin del Mundo",
+      "overview": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol."
+    },
+    {
+      "language": "zh",
+      "country": "HK",
+      "title": "末日聖母號",
+      "overview": "科學老師 Ryland Grace（賴恩高斯寧 飾）在一艘距離地球數光年遠的太空船上醒來，隨着記憶慢慢逐漸恢復，佢先至知道大鑊！原來太陽就快玩完，而佢竟然是人類最後希望？！為了破解令太陽熄機之謎，他必須用盡畢生科學知識、非傳統諗頭，誓死拯救地球。不過估唔到喺呢趟孤獨太空之旅，竟然識到個意想不到嘅拍檔⋯⋯"
+    },
+    {
+      "language": "he",
+      "country": "IL",
+      "title": "פרויקט הייל מרי",
+      "overview": "מורה למדעים מתעורר על סיפון חללית, במרחק שנות אור מהבית, ללא כל זיכרון לגבי זהותו או איך הגיע לשם.  ככל שזיכרונו מתחיל לשוב אליו, הוא מבין כי יש לו משימה והיא- לפענח את החומר המסתורי שגורם לשמש לגווע.  כעת עליו להיעזר בידע המדעי שלו וברעיונות לא שגרתיים כדי להציל את כדור הארץ מהכחדה, אך ידידות בלתי צפויה גורמת לו להבין שהוא לא חייב לעשות זאת לבד."
+    },
+    {
+      "language": "it",
+      "country": "IT",
+      "title": "L'ultima missione: Project Hail Mary",
+      "overview": "L’insegnante di scienze Ryland Grace si sveglia su un’astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sulle sue conoscenze scientifiche e sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli farà capire che non è solo in questa impresa."
+    },
+    {
+      "language": "ja",
+      "country": "JP",
+      "title": "プロジェクト・ヘイル・メアリー",
+      "overview": "未知の原因によって太陽エネルギーが奪われる異常事態が発生。このままでは地球の気温は低下し、全生命は滅亡する。 この絶望的な危機を救う鍵が、11.9光年先の宇宙にあると突き止めた人類は、 一縷の望みをかけて宇宙船を建造。中学校の科学教師グレースを送り込む。 彼は知識を武器に、“イチかバチか”のミッション＜プロジェクト・ヘイル・メアリー＞に立ち向かうことになる。  宇宙の果て、極限の孤独のなかで、グレースが出会ったのは、同じく母星を救うためにひとり奮闘する異星人ロッキーだった。 姿形、言葉も違う二人が、科学を共通言語に挑む、宇宙最大の難題。 やがて育まれる種族を超えた友情の先で、二人が辿り着いた答えとは ――。"
+    },
+    {
+      "language": "sk",
+      "country": "SK",
+      "title": "Posledná šanca",
+      "overview": "Ryland Grace je učiteľ biológie na základnej škole. Keď sa Ryland prebudí úplne sám na vesmírnej lodi, mnoho svetelných rokov od domova, bez akejkoľvek spomienky či tušenia, čo vo vesmíre robí, zdá sa, že horšie to už byť nemôže. No ako sa mu pamäť postupne vracia, odhaľuje pravdu o svojej misii: jeho úlohou je vyriešiť záhadu zomierajúcich hviezd - vrátane nášho Slnka. Aby zabránil vyhynutiu ľudstva, musí využiť všetky svoje vedecké poznatky, netradičné nápady... a aj pomoc nečakaného spojenca z hlbokého vesmíru."
+    },
+    {
+      "language": "hu",
+      "country": "HU",
+      "title": "A Hail Mary-küldetés",
+      "overview": "Ryland Grace, a természettudománytanár egy űrhajón ébred, fényévekre az otthonától és semmire sem emlékszik - sem arra, hogy kicsoda, sem arra, hogyan került oda. Ahogy lassan visszanyeri az emlékeit, feltárul előtte a küldetése: meg kell fejtenie annak a rejtélyes anyagnak a titkát, amely a Nap kihunyását okozza. Tudományos ismereteire és szokatlan ötleteire támaszkodva kell megakadályoznia a Föld teljes kipusztulását… ám egy váratlan barátság révén talán mégsem kell egyedül szembenéznie a lehetetlennel."
+    },
+    {
+      "language": "hr",
+      "country": "HR",
+      "title": "Projekt Spasitelj",
+      "overview": "Profesor prirodoslovlja Ryland Grace budi se na svemirskom brodu 11,9 svjetlosnih godina od kuće, bez sjećanja tko je ili kako je tamo dospio. Kako mu se pamćenje vraća, počinje otkrivati ​​svoju misiju: ​​riješiti zagonetku misteriozne tvari koja uzrokuje izumiranje Sunca. Mora se pozvati na svoje znanstveno znanje i neortodoksne ideje kako bi spasio sve na Zemlji od izumiranja... ali neočekivano prijateljstvo znači da to možda neće morati učiniti sam."
+    },
+    {
+      "language": "pl",
+      "country": "PL",
+      "title": "Projekt Hail Mary",
+      "overview": "Nauczyciel nauk ścisłych Ryland Grace budzi się na statku kosmicznym lata świetlne od domu, nie pamiętając, kim jest ani jak się tam znalazł. Gdy wraca mu pamięć, zaczyna odkrywać swoją misję: rozwiązać zagadkę tajemniczej substancji powodującej wygaśnięcie słońca. Musi wykorzystać swoją wiedzę naukową i niekonwencjonalne pomysły, aby ocalić wszystko na Ziemi przed zagładą, ale nieoczekiwana przyjaźń oznacza, że być może nie będzie musiał robić tego sam."
+    },
+    {
+      "language": "zh",
+      "country": "TW",
+      "title": "極限返航",
+      "overview": "科學老師萊倫格雷斯在一艘距離地球好幾光年的太空船上醒來，卻對自己的身分和來到這裡的原因一無所知。隨著記憶逐漸恢復，他開始揭開任務的真相，解開一種神祕物質導致太陽衰亡的謎團。他必須運用自己的科學知識與創意想法，拯救地球的滅絕危機……但一位意料之外的訪客，讓他或許不用獨自奮鬥。"
+    },
+    {
+      "language": "ru",
+      "country": "RU",
+      "title": "Проект «Конец света»",
+      "overview": "Астронавт Райленд Грейс просыпается на космическом корабле, не помня ни себя, ни свою миссию. Постепенно мужчина приходит к выводу, что он — единственный выживший из экипажа, отправленного в звёздную систему Тау Кита в поисках спасения от катастрофы на Земле. Райленду предстоит положиться на свои обширные научные знания, изобретательность и силу воли, но, возможно, ему не придётся искать в одиночку."
+    },
+    {
+      "language": "th",
+      "country": "TH",
+      "title": "ภารกิจกู้สุริยะ",
+      "overview": "คุณครูวิชาวิทยาศาสตร์ ไรแลนด์ เกรซ ตื่นขึ้นมาบนยานอวกาศที่อยู่ห่างไกลจากโลกหลายล้านปีแสง โดยที่ไม่มีความทรงจำว่าเขาคือใคร หรือเขามาอยู่ที่นี่ได้อย่างไร ในขณะที่ความทรงจำของเขาเริ่มกลับคืนมา เขาก็เริ่มที่จะเข้าใจถึงภารกิจของเขา คือ การไขปริศนาของสารลึกลับบางอย่างที่กำลังทำให้ดวงอาทิตย์มอดดับลง เขาต้องใช้ความรู้ทางวิทยาศาสตร์ทั้งหมดที่เขามี และความคิดนอกขนบเพื่อที่จะช่วยเหลือทุกชีวิตบนโลกจากการสูญพันธุ์ แต่มิตรภาพที่คาดไม่ถึงที่เข้ามา ก็หมายความว่าเขาอาจจะไม่ต้องทำมันเพียงแค่คนเดียว"
+    },
+    {
+      "language": "ka",
+      "country": "GE",
+      "title": "პროექტი ავე მარია",
+      "overview": "მეცნიერების მასწავლებელი, რაილან გრეისი, კოსმოსურ ხომალდზე იღვიძებს და წარმოდგენა არ აქვს, ვინ არის ან აქ როგორ მოხვდა. მეხსიერების დაბრუნებასთან ერთად, ის თავის მთავარ მისიაზეც იხსენებს ყველაფერს: მან უნდა ამოხსნას საიდუმლო ნივთიერების გამოცანა, რომელიც მზეს აქრობს. ახლა მას მხოლოდ საკუთარი ცოდნა და გიჟური იდეები თუ გადაარჩენს, რათა დედამიწა სრული განადგურებისგან იხსნას."
+    },
+    {
+      "language": "bg",
+      "country": "BG",
+      "title": "Проектът Аве Мария",
+      "overview": "Проектът Аве Мария ни запознава с Райлънд Грейс – учител по природни науки, който се събужда на борда на космически кораб, без никакви спомени кой е, къде се намира и каква е мисията му. Постепенно Грейс си припомня истината: Земята е изправена пред глобална катастрофа, а той пътува към звездата Тау в съзвездието Кит като последна, отчаяна надежда за спасение на човечеството. Без екипаж и с единствен спътник в лицето на мистериозно извънземно създание, Райлънд Грейс трябва да разгадае мистерията на смъртоносната заплаха, за да спаси света."
+    },
+    {
+      "language": "tr",
+      "country": "TR",
+      "title": "Kurtuluş Projesi",
+      "overview": "Fen bilgisi öğretmeni Ryland Grace, evinden ışık yılları uzakta bir uzay gemisinde uyanır, kim olduğuna ya da oraya nasıl geldiğine dair hiçbir şey hatırlamaz. Hafızası yavaş yavaş yerine gelirken görevini de çözmeye başlar: Güneşin sönmesine neden olan gizemli maddenin sırrını çözmek. Dünyadaki her şeyi yok olmaktan kurtarmak için tüm bilimsel bilgisine ve sıra dışı fikirlerine başvurmak zorundadır. Ancak beklenmedik bir dostluk, bu görevi tek başına yapmak zorunda kalmayacağı anlamına gelecektir."
+    },
+    {
+      "language": "cs",
+      "country": "CZ",
+      "title": "Spasitel",
+      "overview": "Učitel přírodopisu Ryland Grace se probudí na vesmírné lodi vzdálené světelné roky od domova, aniž by si pamatoval, kdo je a jak se tam dostal. Když se mu paměť vrátí, začne odhalovat svůj úkol: vyřešit záhadu tajemné látky, která způsobuje vyhasínání Slunce. Musí využít svých vědeckých znalostí a neortodoxních nápadů, aby zachránil vše na Zemi před zánikem… ale díky nečekanému přátelství na to možná nebude muset být sám."
+    },
+    {
+      "language": "sl",
+      "country": "SI",
+      "title": "Projekt Zadnje upanje",
+      "overview": "Učitelj znanosti Ryland Grace se prebudi na vesoljski ladji svetlobna leta od doma, brez spomina kdo je in kako se je znašel tam. Ko se mu spomin vrača, začne odkrivati svojo misijo: rešitev uganke skrivnostne snovi, ki povzroča, da sonce ugaša. Uporabiti mora svoje znanstveno znanje in neortodoksne ideje, da reši Zemljo pred izumrtjem... toda zahvaljujoč nepričakovanemu prijateljstvu morda pri tem ne bo sam."
+    },
+    {
+      "language": "lv",
+      "country": "LV",
+      "title": "Projekts 'Ave Maria'",
+      "overview": ""
+    },
+    {
+      "language": "az",
+      "country": "AZ",
+      "title": "«Dünyanın Sonu» layihəsi",
+      "overview": "Astronavt Raylend Qreys kosmik gəmidə ayılır, nə özü haqqında, nə də missiyası barədə heç nə xatırlamır. Tədricən o qənaətə gəlir ki, Yer üzündə baş verən fəlakətdən xilas axtarmaq üçün Tau Kita günəş sisteminə göndərilmiş ekipajın yeganə sağ qalan üzvüdür. Cavablar axtararkən Raylend geniş elmi biliklərinə, yaradıcı düşüncəsinə və iradəsinə güvənməli olacaq, lakin bəlkə də bunu tək başına etməli olmayacaq."
+    },
+    {
+      "language": "et",
+      "country": "EE",
+      "title": "Ave Maria",
+      "overview": "Teadusõpetaja Ryland Grace (Ryan Gosling) ärkab kosmoselaeval valgusaastate kaugusel kodust, mäletamata, kes ta on või kuidas sinna sattus. Mälu taastudes asub ta oma missiooni kallale. Tal tuleb nimelt lahendada päikest hävitava salapärase aine mõistatus. Maal kõige väljasuremisest päästmiseks kasutab ta oma teadmisi teadusest ja ebatavalisi ideid. Ootamatu sõprus aga tähendab, et ta ehk ei peagi seda üksi tegema."
+    },
+    {
+      "language": "de",
+      "country": "CH",
+      "title": "Der Astronaut - Project Hail Mary",
+      "overview": ""
+    },
+    {
+      "language": "ro",
+      "country": "RO",
+      "title": "Proiectul Hail Mary",
+      "overview": "Profesorul de științe Ryland Grace se trezește pe o navă spațială la ani-lumină de casă, fără să-și amintească cine e sau cum a ajuns acolo. Pe măsură ce memoria îi revine, Ryland începe să-și înțeleagă misiunea: trebuie să rezolve misterul substanței care provoacă stingerea soarelui. Profesorul trebuie să-și folosească cunoștințele și ingeniozitatea pentru a împiedica dispariția vieții pe Pământ..."
+    },
+    {
+      "language": "pt",
+      "country": "PT",
+      "title": "Projeto Hail Mary",
+      "overview": "O professor de Ciências Ryland Grace acorda numa nave espacial sem se lembrar de quem é ou como chegou lá. À medida que a memória volta, começa a descobrir a sua missão: resolver o enigma da misteriosa substância que está a causar a extinção do Sol. Tem de recorrer aos seus conhecimentos científicos para salvar tudo na Terra da extinção... mas uma amizade inesperada acompanha-o nesta missão."
+    },
+    {
+      "language": "el",
+      "country": "GR",
+      "title": "Αποστολή Χαίρε Μαρία",
+      "overview": "Ο καθηγητής φυσικών επιστημών Ryland Grace ξυπνά σε ένα διαστημόπλοιο, έτη φωτός μακριά από το σπίτι του. Δεν μπορεί να θυμηθεί  ούτε ποιος είναι ούτε πώς βρέθηκε εκεί. Όταν η μνήμη του αρχίζει να  επανέρχεται, ανακαλύπτει την κρίσιμη αποστολή του. Πρέπει να βρει τη μυστηριώδη ουσία που κάνει τον Ήλιο να σβήνει, και να επιστρατεύσει τις επιστημονικές γνώσεις και τις ανορθόδοξες ιδέες του, για να  σώσει  τη  Γη.  Χάρη σε μια απρόσμενη φιλία μπορεί να μη  χρειαστεί  να  το  κάνει  ολομόναχος."
+    },
+    {
+      "language": "hi",
+      "country": "IN",
+      "title": "प्रोजेक्ट हेल मैरी",
+      "overview": ""
+    },
+    {
+      "language": "fr",
+      "country": "CA",
+      "title": "Projet dernière chance",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre… mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul."
+    },
+    {
+      "language": "ar",
+      "country": "SA",
+      "title": "مشروع هيل ماري",
+      "overview": "يستيقظ \"رايلاند غريس\"، مدرس العلوم، على متن مركبة فضائية تبعد سنوات ضوئية عن موطنه، فاقدًا للذاكرة تمامًا، لا يتذكر من هو ولا كيف وصل إلى هناك. ومع عودة ذاكرته تدريجيًا، يبدأ في اكتشاف مهمته: حل لغز المادة الغامضة التي تتسبب في انطفاء الشمس. عليه أن يستعين بمعرفته العلمية وأفكاره غير التقليدية لإنقاذ كل شيء على الأرض من الفناء... لكن صداقة غير متوقعة تعني أنه قد لا يضطر إلى القيام بذلك بمفرده."
+    },
+    {
+      "language": "ca",
+      "country": "ES",
+      "title": "Projecte Hail Mary",
+      "overview": "El professor de ciències Ryland Grace es desperta en una nau espacial a anys llum de casa sense recordar qui és ni com hi ha arribat. A mesura que recupera la memòria, comença a descobrir-ne la missió: resoldre l'enigma de la misteriosa substància que provoca l'extinció del sol. Haurà de recórrer als seus coneixements científics ia les seves idees poc ortodoxes per salvar tot el que hi ha a la Terra de l'extinció... però una amistat inesperada vol dir que potser no ho haurà de fer sol."
+    },
+    {
+      "language": "sr",
+      "country": "RS",
+      "title": "Пројекат Очајнички покушај",
+      "overview": "Наставник природних наука Рајланд Грејс буди се на свемирском броду светлосним годинама од куће, без сећања ко је или како је тамо стигао. Како му се памћење враћа, почиње да открива своју мисију: да реши загонетку мистериозне супстанце која узрокује гашење сунца. Мора да се позове на своје научно знање и неуобичајене идеје како би спасао све на Земљи од изумирања... али неочекивано пријатељство значи да можда неће морати то да уради сам."
+    },
+    {
+      "language": "lt",
+      "country": "LT",
+      "title": "Projektas „Sveika, Marija“",
+      "overview": "Railandas Greisas (aktorius Ryanas Goslingas) – talentingas gamtos mokslų mokytojas. Kitaip tariant, jis yra būtent toks žmogus, kokio reikia naujam kosmoso projektui.  Mokslininkai kosmose aptinka paslaptingą reiškinį, naikinantį žvaigždes. Jei nepavyks rasti sprendimo, kaip tam užkirsti kelią, Saulė užges ir žmonija išnyks. Vienintelė sąlyginai netoliese esanti žvaigždė, kuriai pavyko išvengti negailestingo likimo, yra už 12 šviesmečių nuo Žemės. Būtent ten ir išsiunčiamas Railandas Greisas, kad pabandytų surasti atsakymą, kurio kaina – aštuoni milijardai gyvybių.  Pakeliui į kelionės tikslą naujai iškeptas astronautas turi suprasti ir išmokti daugybę dalykų, su kuriais anksčiau niekados nebuvo susidūręs. Ir susidraugauti su organizmu, su kokiu nėra susidūręs joks kitas žmogus. Tik sujungę jėgas ir dirbdami kartu, žmogus ir ateivis turi menką šansą išgelbėti Visatą nuo pražūties."
+    },
+    {
+      "language": "ur",
+      "country": "PK",
+      "title": "پروجیکٹ ہیل میری",
+      "overview": ""
+    },
+    {
+      "language": "fa",
+      "country": "IR",
+      "title": "پروژه هیل مری",
+      "overview": "«رایلند گریس»، معلم علوم، در یک فضاپیما در فاصله چند سال نوری از خانه بیدار می‌شود، در حالی که هیچ خاطری از اینکه کیست و چطور به آنجا آمده ندارد. با بازگشت حافظه‌اش، او شروع به کشف مأموریت خود می‌کند: حل معما و راز ماده اسرارآمیزی که باعث خاموش شدن خورشید شده است. او باید برای نجات تمام موجودات زمین از انقراض، به دانش علمی و ایده‌های غیرمتعارف خود متکی شود."
+    },
+    {
+      "language": "ar",
+      "country": "AE",
+      "title": "مشروع هيل ماري",
+      "overview": "يستيقظ \"رايلاند غريس\"، مدرس العلوم، على متن مركبة فضائية تبعد سنوات ضوئية عن موطنه، فاقدًا للذاكرة تمامًا، لا يتذكر من هو ولا كيف وصل إلى هناك. ومع عودة ذاكرته تدريجيًا، يبدأ في اكتشاف مهمته: حل لغز المادة الغامضة التي تتسبب في انطفاء الشمس. عليه أن يستعين بمعرفته العلمية وأفكاره غير التقليدية لإنقاذ كل شيء على الأرض من الفناء... لكن صداقة غير متوقعة تعني أنه قد لا يضطر إلى القيام بذلك بمفرده."
+    },
+    {
+      "language": "be",
+      "country": "BY",
+      "title": "Праект «Авэ Марыя»",
+      "overview": ""
+    }
+  ],
+  "media_type": "movie"
+}
